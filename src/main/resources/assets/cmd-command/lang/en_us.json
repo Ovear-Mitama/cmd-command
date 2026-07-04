@@ -1,0 +1,21 @@
+{
+  "cmdmod.help.title": "===== CmdMod Help =====",
+  "cmdmod.help.cmd": "/cmd <command>    Execute command",
+  "cmdmod.help.start": "/cmd internal start   New terminal",
+  "cmdmod.help.list": "/cmd internal list    List all",
+  "cmdmod.help.switch": "/cmd internal <N>     Switch (0-9)",
+  "cmdmod.help.help": "/cmd internal help    Show help",
+
+  "cmdmod.term.started": "Terminal %d started. Total: %d",
+  "cmdmod.term.closed": "Terminal %d closed.",
+  "cmdmod.term.switched": "Switched to terminal %d.",
+  "cmdmod.term.not_found": "Terminal %d not found.",
+  "cmdmod.term.no_active": "No active terminal.",
+  "cmdmod.term.no_terminals": "No running terminals.",
+  "cmdmod.term.max": "Max 10 terminals (0-9).",
+  "cmdmod.term.running": "running",
+  "cmdmod.term.stopped": "stopped",
+  "cmdmod.term.current": "<-- current",
+  "cmdmod.term.write_fail": "Terminal %d write failed: %s",
+  "cmdmod.term.start_fail": "Start terminal failed: %s"
+}

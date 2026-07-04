@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "cmd-command",
+	"version": "${version}",
+	"name": "CmdMod",
+	"description": "Execute Windows system commands from Minecraft chat using /cmd",
+	"authors": [
+		"mitama"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/cmd-command",
+		"issues": "https://github.com/Ovear-Mitama/Cmd-Command/issues",
+		"sources": "https://github.com/Ovear-Mitama/Cmd-Command"
+	},
+	"license": "MIT",
+	"icon": "assets/cmd-command/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"cmd.command.CmdCommand"
+		]
+	},
+	"mixins": [
+		"cmd-command.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"minecraft": "~1.21",
+		"java": ">=21"
+	}
+}

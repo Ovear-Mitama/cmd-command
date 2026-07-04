@@ -1,0 +1,21 @@
+{
+  "cmdmod.help.title": "===== CmdMod 帮助 =====",
+  "cmdmod.help.cmd": "/cmd <命令>      执行 Windows 命令",
+  "cmdmod.help.start": "/cmd internal start   开启新终端",
+  "cmdmod.help.list": "/cmd internal list    列出所有终端",
+  "cmdmod.help.switch": "/cmd internal <N>     切换到(0-9)",
+  "cmdmod.help.help": "/cmd internal help    显示帮助",
+
+  "cmdmod.term.started": "终端 %d 已启动。共 %d 个",
+  "cmdmod.term.closed": "终端 %d 已关闭。",
+  "cmdmod.term.switched": "已切换到终端 %d。",
+  "cmdmod.term.not_found": "终端 %d 不存在。",
+  "cmdmod.term.no_active": "没有活动终端。",
+  "cmdmod.term.no_terminals": "暂无运行终端。",
+  "cmdmod.term.max": "最多 10 个终端（0-9）。",
+  "cmdmod.term.running": "运行中",
+  "cmdmod.term.stopped": "已停止",
+  "cmdmod.term.current": "<-- 当前",
+  "cmdmod.term.write_fail": "终端 %d 写入失败：%s",
+  "cmdmod.term.start_fail": "启动终端失败：%s"
+}

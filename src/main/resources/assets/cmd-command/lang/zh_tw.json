@@ -1,0 +1,21 @@
+{
+  "cmdmod.help.title": "===== CmdMod 說明 =====",
+  "cmdmod.help.cmd": "/cmd <命令>      執行 Windows 命令",
+  "cmdmod.help.start": "/cmd internal start   開啟新終端",
+  "cmdmod.help.list": "/cmd internal list    列出所有終端",
+  "cmdmod.help.switch": "/cmd internal <N>     切換到(0-9)",
+  "cmdmod.help.help": "/cmd internal help    顯示說明",
+
+  "cmdmod.term.started": "終端 %d 已啟動。共 %d 個",
+  "cmdmod.term.closed": "終端 %d 已關閉。",
+  "cmdmod.term.switched": "已切換到終端 %d。",
+  "cmdmod.term.not_found": "終端 %d 不存在。",
+  "cmdmod.term.no_active": "沒有活動終端。",
+  "cmdmod.term.no_terminals": "暫無執行中的終端。",
+  "cmdmod.term.max": "最多 10 個終端（0-9）。",
+  "cmdmod.term.running": "執行中",
+  "cmdmod.term.stopped": "已停止",
+  "cmdmod.term.current": "<-- 目前",
+  "cmdmod.term.write_fail": "終端 %d 寫入失敗：%s",
+  "cmdmod.term.start_fail": "啟動終端失敗：%s"
+}
