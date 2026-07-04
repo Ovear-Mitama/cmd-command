@@ -1,11 +1,10 @@
-<img width="700" height="450" alt="无标题" src="https://github.com/user-attachments/assets/c678fe3e-1046-45ce-b4a6-124d42780820" />
+<img width="700" height="437" alt="download" src="https://github.com/user-attachments/assets/1e333269-b315-4397-89af-c1fe76647f24" />
 
 # cmd command mod
 
 A client-side mod that executes Windows system commands directly from the Minecraft chat bar.
 
-<img width="1051" height="163" alt="b183a93f-42f9-4061-8a48-fe765f8ef650" src="https://github.com/user-attachments/assets/666a1cfd-b7f8-44f1-8877-dabec4b0bacd" />
-
+<img width="1051" height="163" alt="1332255e67a53f7a172af13ddf0444c55681ba6e" src="https://github.com/user-attachments/assets/dfd91001-13dc-4576-b88d-1bae53d232fc" />
 
 ## Features
 
